@@ -19,7 +19,7 @@
 
 ### About me
 - 🌱 I’m currently learning **HTML, CSS ,JavaScript**
-- 📄 Know about my experiences (url)
+- 📄 Know about my experiences (there will be a link here soon)
 - 🌍 I speak a little English language
 
 
