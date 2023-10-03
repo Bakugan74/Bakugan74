@@ -32,7 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 
-![Snake animation](https://github.com/bakugan74/bakugan74/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 <div  align="center">
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  width="70%"/>
