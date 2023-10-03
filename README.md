@@ -1,5 +1,11 @@
 <div id="header" align="center">
-	<h1>Hi there, I'm bakugan74</h1>
+	<h1 align="center">
+	<a href="https://git.io/typing-svg">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&lines=Hi+there%2C+I'm+bakugan74%E2%9C%8C;Welcome+to+my+account%F0%9F%91%8B" alt="Typing SVG" />
+	</a>
+  </a>
+</h1>
+
 </div>
 
 
