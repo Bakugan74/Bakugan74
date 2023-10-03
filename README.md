@@ -38,7 +38,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 
-![snake gif](https://github.com/Bakugan74/Bakugan74/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bakugan74/Bakugan74/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bakugan74/Bakugan74/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div  align="center">
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  width="70%"/>
