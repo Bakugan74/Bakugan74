@@ -1,5 +1,5 @@
 <!-- Приветствие -->
-<h1 align="center">Привет, я Nick 👋</h1>
+<h1 align="center">Привет, я ÉVVE 👋</h1>
 
 <p align="center">
   🎨 Дизайнер &middot; 💻 Люблю интерфейсы &middot; 🚀 Осваиваю React / TypeScript
@@ -27,8 +27,7 @@
 ### 📊 Статистика GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickAf&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickAf&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evveere&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -36,9 +35,7 @@
 ### 🌐 Соцсети и контакты
 
 <p align="center">
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" /></a>
-  <a href="https://www.behance.net/yourbehance"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/@evve_rigell"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
