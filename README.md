@@ -35,7 +35,7 @@
 ### 🌐 Соцсети и контакты
 
 <p align="center">
-  <a href="https://t.me/@evve_rigell"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/evve_rigell"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
